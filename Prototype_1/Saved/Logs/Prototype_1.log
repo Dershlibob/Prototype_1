@@ -1,0 +1,344 @@
+﻿Log file open, 07/18/18 14:46:20
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Prototype_1
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(825771421) SRandInit(825771421).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.164488
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogHMD: Failed initializing OVRPlugin 1.15.0
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/apps/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.07.18-02.46.21:239][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.18-02.46.21:239][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.07.18-02.46.21:245][  0]LogInit: Computer: 1805C021
+[2018.07.18-02.46.21:245][  0]LogInit: User: jaydenfac6880
+[2018.07.18-02.46.21:245][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.07.18-02.46.21:245][  0]LogInit: High frequency timer resolution =3.515631 MHz
+[2018.07.18-02.46.21:245][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2018.07.18-02.46.21:245][  0]LogMemory: Platform Memory Stats for Windows
+[2018.07.18-02.46.21:245][  0]LogMemory: Process Physical Memory: 283.71 MB used, 283.71 MB peak
+[2018.07.18-02.46.21:245][  0]LogMemory: Process Virtual Memory: 275.89 MB used, 275.89 MB peak
+[2018.07.18-02.46.21:245][  0]LogMemory: Physical Memory: 10633.18 MB used,  22094.58 MB free, 32727.76 MB total
+[2018.07.18-02.46.21:245][  0]LogMemory: Virtual Memory: 731.80 MB used,  22094.58 MB free, 134217728.00 MB total
+[2018.07.18-02.46.21:501][  0]LogInit: Using OS detected language (en-US).
+[2018.07.18-02.46.21:501][  0]LogInit: Using OS detected locale (en-US).
+[2018.07.18-02.46.21:504][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.07.18-02.46.22:101][  0]LogD3D11RHI: D3D11 adapters:
+[2018.07.18-02.46.22:136][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.07.18-02.46.22:136][  0]LogD3D11RHI:       8086/0/16363 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.07.18-02.46.22:138][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.07.18-02.46.22:138][  0]LogD3D11RHI:       0/0/16363 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.07.18-02.46.22:138][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.07.18-02.46.22:144][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.07.18-02.46.22:144][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.07.18-02.46.22:144][  0]LogWindows: EnumDisplayDevices:
+[2018.07.18-02.46.22:144][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2018.07.18-02.46.22:144][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.07.18-02.46.22:144][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.07.18-02.46.22:144][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.07.18-02.46.22:144][  0]LogWindows:    4. 'Mirage Driver' (P:0 D:0)
+[2018.07.18-02.46.22:144][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.07.18-02.46.22:144][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.07.18-02.46.22:144][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.07.18-02.46.22:144][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.07.18-02.46.22:144][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2018.07.18-02.46.22:165][  0]LogD3D11RHI: Async texture creation enabled
+[2018.07.18-02.46.22:174][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.07.18-02.46.22:258][  0]LogShaderCompilers: Guid format shader working directory is -7 characters bigger than the processId version (D:/Users/jayden.fac6880/Documents/Unreal Projects/Prototype_1/Intermediate/Shaders/WorkingDirectory/17972/).
+[2018.07.18-02.46.22:258][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'D:/Users/jayden.fac6880/AppData/Local/Temp/UnrealShaderWorkingDir/614980E6446F3BAF79E6B0B0A3AB9CEA/'.
+[2018.07.18-02.46.22:258][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.07.18-02.46.23:063][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.07.18-02.46.23:128][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.07.18-02.46.23:193][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.07.18-02.46.23:258][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.07.18-02.46.23:325][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.07.18-02.46.23:391][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.07.18-02.46.23:459][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.07.18-02.46.23:524][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.07.18-02.46.23:586][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.07.18-02.46.23:651][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.18-02.46.23:716][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.07.18-02.46.23:782][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.07.18-02.46.23:853][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.07.18-02.46.23:924][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.07.18-02.46.24:005][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.07.18-02.46.24:147][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.07.18-02.46.24:147][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.07.18-02.46.24:204][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.07.18-02.46.24:321][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.07.18-02.46.24:358][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.07.18-02.46.24:422][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.07.18-02.46.24:488][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.07.18-02.46.24:551][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.07.18-02.46.24:615][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.07.18-02.46.24:615][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.07.18-02.46.25:284][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.07.18-02.46.25:342][  0]LogDerivedDataCache: Loaded boot cache 0.06s 93MB D:/Users/jayden.fac6880/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.07.18-02.46.25:342][  0]LogDerivedDataCache: Display: Loaded Boot cache: D:/Users/jayden.fac6880/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2018.07.18-02.46.25:342][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Users/jayden.fac6880/Documents/Unreal Projects/Prototype_1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.07.18-02.46.25:342][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.07.18-02.46.25:342][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Users/jayden.fac6880/Documents/Unreal Projects/Prototype_1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.07.18-02.46.25:342][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.07.18-02.46.25:354][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.07.18-02.46.25:366][  0]LogDerivedDataCache: Using Local data cache path D:/Users/jayden.fac6880/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.07.18-02.46.25:373][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.07.18-02.46.25:373][  0]LogSlate: Using Freetype 2.6.0
+[2018.07.18-02.46.25:374][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.18-02.46.25:374][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.18-02.46.25:595][  0]LogAssetRegistry: FAssetRegistry took 0.0256 seconds to start up
+[2018.07.18-02.46.25:708][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.18-02.46.25:846][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2018.07.18-02.46.26:245][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.07.18-02.46.26:308][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.07.18-02.46.26:308][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.07.18-02.46.26:308][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.07.18-02.46.26:308][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.07.18-02.46.26:308][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.07.18-02.46.26:682][  0]LogNetVersion: Prototype_1 , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1004603440)
+[2018.07.18-02.46.26:902][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.032272 seconds
+[2018.07.18-02.46.26:909][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2018.07.18-02.46.26:909][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2018.07.18-02.46.26:909][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.07.18-02.46.27:019][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.07.18-02.46.30:282][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.07.18-02.46.30:336][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.07.18-02.46.31:184][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.07.18-02.46.31:715][  0]SourceControl: Source control is disabled
+[2018.07.18-02.46.31:715][  0]SourceControl: Source control is disabled
+[2018.07.18-02.46.31:781][  0]SourceControl: Source control is disabled
+[2018.07.18-02.46.31:847][  0]SourceControl: Source control is disabled
+[2018.07.18-02.46.32:674][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.07.18-02.46.33:016][  0]LogOcInput: OculusInput pre-init called
+[2018.07.18-02.46.33:362][  0]LogEngine: Initializing Engine...
+[2018.07.18-02.46.33:364][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.07.18-02.46.33:541][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.18-02.46.33:541][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.18-02.46.33:745][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.07.18-02.46.33:750][  0]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.18-02.46.33:766][  0]LogInit: FAudioDevice initialized.
+[2018.07.18-02.46.33:901][  0]LogDerivedDataCache: Saved boot cache 0.14s 93MB D:/Users/jayden.fac6880/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.07.18-02.46.33:905][  0]LogInit: Texture streaming: Enabled
+[2018.07.18-02.46.34:083][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.07.18-02.46.34:424][  0]LogInit: Transaction tracking system initialized
+[2018.07.18-02.46.34:904][  0]BlueprintLog: New page: Editor Load
+[2018.07.18-02.46.36:310][  0]LocalizationService: Localization service is disabled
+[2018.07.18-02.46.37:327][  0]LogConsoleResponse: Display: 
+[2018.07.18-02.46.37:514][  0]LogFileCache: Scanning file cache for directory 'D:/Users/jayden.fac6880/Documents/Unreal Projects/Prototype_1/Content/' took 0.01s
+[2018.07.18-02.46.37:514][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.07.18-02.46.37:514][  0]LogCook: Display: Mobile HDR setting 1
+[2018.07.18-02.46.37:514][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.07.18-02.46.39:021][  0]SourceControl: Source control is disabled
+[2018.07.18-02.46.39:021][  0]Cmd: MAP LOAD FILE="D:/Users/jayden.fac6880/Documents/Unreal Projects/Prototype_1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.18-02.46.39:022][  0]LightingResults: New page: Lighting Build
+[2018.07.18-02.46.39:088][  0]MapCheck: New page: Map Check
+[2018.07.18-02.46.39:088][  0]LightingResults: New page: Lighting Build
+[2018.07.18-02.46.39:448][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.07.18-02.46.39:483][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.18-02.46.39:499][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.18-02.46.39:571][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 72.066ms to complete.
+[2018.07.18-02.46.39:571][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.550
+[2018.07.18-02.46.39:632][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.07.18-02.46.39:632][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.07.18-02.46.39:777][  0]LogCollectionManager: Loaded 0 collections in 0.001120 seconds
+[2018.07.18-02.46.39:897][  0]LogFileCache: Scanning file cache for directory 'D:/Users/jayden.fac6880/Documents/Unreal Projects/Prototype_1/Saved/Collections/' took 0.01s
+[2018.07.18-02.46.39:897][  0]LogFileCache: Scanning file cache for directory 'D:/Users/jayden.fac6880/Documents/Unreal Projects/Prototype_1/Content/Developers/jaydenfac6880/Collections/' took 0.01s
+[2018.07.18-02.46.39:897][  0]LogFileCache: Scanning file cache for directory 'D:/Users/jayden.fac6880/Documents/Unreal Projects/Prototype_1/Content/Collections/' took 0.01s
+[2018.07.18-02.46.39:897][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.07.18-02.46.39:907][  0]LogContentBrowser: Native class hierarchy populated in 0.0076 seconds. Added 2386 classes and 500 folders.
+[2018.07.18-02.46.40:009][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.07.18-02.46.40:041][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.07.18-02.46.40:115][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.07.18-02.46.40:184][  0]LogSlate: Took 0.000239 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.18-02.46.40:187][  0]LogSlate: Took 0.000226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.07.18-02.46.40:196][  0]LogSlate: Took 0.001096 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.07.18-02.46.40:305][  0]LogRenderer: Reallocating scene render targets to support 1208x580 Format 10 NumSamples 1 (Frame:1).
+[2018.07.18-02.46.40:548][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.07.18-02.46.40:549][  0]LogLoad: (Engine Initialization) Total time: 21.35 seconds
+[2018.07.18-02.46.40:549][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.07.18-02.46.40:549][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.07.18-02.46.40:577][  0]LogAssetRegistry: Asset discovery search completed in 15.0036 seconds
+[2018.07.18-02.46.40:578][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.07.18-02.46.40:578][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000030 seconds (updated 0 objects)
+[2018.07.18-02.46.40:581][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.07.18-02.46.40:621][  0]LogSlate: Took 0.000265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.07.18-02.51.41:227][988]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.07.18-02.51.41:620][988]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 113 classes and 0 folders.
+[2018.07.18-02.51.42:133][988]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.18-02.51.42:201][988]LogSlate: Took 0.001233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.07.18-02.51.42:365][989]LogSlate: Took 0.001361 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.07.18-02.51.45:304][302]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2018.07.18-02.51.51:754][ 37]LogActorFactory: Actor Factory created Cube
+[2018.07.18-02.51.52:169][ 83]LogActorFactory: Actor Factory created Cube
+[2018.07.18-02.51.58:100][785]Cmd: DELETE
+[2018.07.18-02.51.58:100][785]Cmd: ACTOR DELETE
+[2018.07.18-02.51.58:105][785]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.18-02.51.58:120][785]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2018.07.18-02.56.31:957][862]LogSlate: Took 0.000210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.07.18-02.56.41:064][889]LogSavePackage: Save=69.66ms
+[2018.07.18-02.56.41:064][889]LogSavePackage: Moving 'D:/Users/jayden.fac6880/Documents/Unreal Projects/Prototype_1/Saved/ThirdPersonExampleMap_Auto172D88BFE4215AFAC7CCC8B97FE439221.tmp' to 'D:/Users/jayden.fac6880/Documents/Unreal Projects/Prototype_1/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2018.07.18-02.56.41:065][889]LogSavePackage: Display: Finished SavePackage D:/Users/jayden.fac6880/Documents/Unreal Projects/Prototype_1/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap
+[2018.07.18-02.56.41:067][889]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.098
+[2018.07.18-02.56.41:067][889]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.098
+[2018.07.18-03.04.34:865][762]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh)
+[2018.07.18-03.04.35:641][850]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RightArm_StaticMesh)
+[2018.07.18-03.04.36:538][953]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bump_StaticMesh)
+[2018.07.18-03.04.36:980][  2]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2018.07.18-03.04.37:677][ 81]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2018.07.18-03.04.38:226][142]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LeftArm_StaticMesh)
+[2018.07.18-03.04.39:219][256]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh)
+[2018.07.18-03.04.39:830][325]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2018.07.18-03.05.50:613][962]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Prototype1
+[2018.07.18-03.05.50:613][962]LogTemp: CWD: C:\apps\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2018.07.18-03.05.50:613][962]LogTemp: Initial Dir: C:\apps\Epic Games\UE_4.17
+[2018.07.18-03.05.50:613][962]LogTemp: Env CWD: C:\apps\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2018.07.18-03.05.50:613][962]LogTemp: BranchPath = 1805C021/C/apps/Epic Games/UE_4.17/Engine/Binaries --- GameBranchPath = 1805C021/C/apps/Epic Games/UE_4.17/Engine/Binaries
+[2018.07.18-03.05.50:637][963]LogTemp: IPP ERROR: Could not find provision directory 'D:\Users\jayden.fac6880\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.07.18-03.08.56:704][863]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.016
+[2018.07.18-03.08.56:705][863]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2018.07.18-03.08.56:715][863]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2018.07.18-03.08.56:715][863]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2018.07.18-03.08.56:777][863]LogSavePackage: Save=59.30ms
+[2018.07.18-03.08.56:777][863]LogSavePackage: Moving 'D:/Users/jayden.fac6880/Documents/Unreal Projects/Prototype_1/Saved/ThirdPersonCharacter_Auto20080424D4E43745493F8A7AE942A7EEC.tmp' to 'D:/Users/jayden.fac6880/Documents/Unreal Projects/Prototype_1/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto2.uasset'
+[2018.07.18-03.08.56:778][863]LogSavePackage: Display: Finished SavePackage D:/Users/jayden.fac6880/Documents/Unreal Projects/Prototype_1/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto2.uasset
+[2018.07.18-03.08.56:778][863]LogFileHelpers: Auto-saving content packages took 0.073
+[2018.07.18-03.09.33:140][338]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.07.18-03.09.35:949][571]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.07.18-03.09.37:906][800]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.07.18-03.10.32:753][395]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Prototype1
+[2018.07.18-03.10.32:753][395]LogTemp: CWD: C:\apps\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2018.07.18-03.10.32:753][395]LogTemp: Initial Dir: C:\apps\Epic Games\UE_4.17
+[2018.07.18-03.10.32:753][395]LogTemp: Env CWD: C:\apps\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2018.07.18-03.10.32:770][396]LogTemp: BranchPath = 1805C021/C/apps/Epic Games/UE_4.17/Engine/Binaries --- GameBranchPath = 1805C021/C/apps/Epic Games/UE_4.17/Engine/Binaries
+[2018.07.18-03.10.32:770][396]LogTemp: IPP ERROR: Could not find provision directory 'D:\Users\jayden.fac6880\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.07.18-03.16.00:499][416]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.07.18-03.16.00:615][416]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.07.18-03.16.00:822][416]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_11:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.07.18-03.16.01:116][416]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0005 seconds. Added 1 classes and 0 folders.
+[2018.07.18-03.16.53:393][  9]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.07.18-03.16.53:412][  9]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_13:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2018.07.18-03.16.53:656][  9]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.07.18-03.18.11:526][ 41]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.18-03.18.11:548][ 41]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.18-03.18.11:548][ 41]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.18-03.18.11:556][ 41]PIE: New page: PIE session: ThirdPersonExampleMap (Jul 19, 2018, 3:18:11 AM)
+[2018.07.18-03.18.11:556][ 41]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.07.18-03.18.11:573][ 41]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016319s)
+[2018.07.18-03.18.11:573][ 41]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.07.18-03.18.11:574][ 41]LogPlayLevel: PIE: World Init took: (0.000833s)
+[2018.07.18-03.18.11:574][ 41]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017844s)
+[2018.07.18-03.18.11:594][ 41]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.18-03.18.11:600][ 41]LogInit: FAudioDevice initialized.
+[2018.07.18-03.18.11:652][ 41]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.18-03.18.11:655][ 41]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.07.18-15.18.11
+[2018.07.18-03.18.11:657][ 41]LogWorld: Bringing up level for play took: 0.003734
+[2018.07.18-03.18.11:732][ 41]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 11 classes and 0 folders.
+[2018.07.18-03.18.11:736][ 41]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.972
+[2018.07.18-03.18.11:736][ 41]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.18-03.18.19:602][833]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.18-03.18.19:651][833]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
