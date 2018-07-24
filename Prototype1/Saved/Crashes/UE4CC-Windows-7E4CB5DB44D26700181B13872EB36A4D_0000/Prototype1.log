@@ -1,0 +1,1086 @@
+﻿Log file open, 07/25/18 00:24:33
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Prototype1
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(120158156) SRandInit(120158157).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.137906
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.07.24-12.24.35:441][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.24-12.24.35:441][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.07.24-12.24.35:455][  0]LogInit: Computer: DESKTOP-3LMKMPS
+[2018.07.24-12.24.35:455][  0]LogInit: User: Administer
+[2018.07.24-12.24.35:455][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.07.24-12.24.35:455][  0]LogInit: High frequency timer resolution =2.340363 MHz
+[2018.07.24-12.24.35:455][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2018.07.24-12.24.35:455][  0]LogMemory: Platform Memory Stats for Windows
+[2018.07.24-12.24.35:455][  0]LogMemory: Process Physical Memory: 271.45 MB used, 271.45 MB peak
+[2018.07.24-12.24.35:455][  0]LogMemory: Process Virtual Memory: 269.06 MB used, 269.06 MB peak
+[2018.07.24-12.24.35:455][  0]LogMemory: Physical Memory: 6198.33 MB used,  5960.45 MB free, 12158.78 MB total
+[2018.07.24-12.24.35:455][  0]LogMemory: Virtual Memory: 640.24 MB used,  5960.45 MB free, 134217728.00 MB total
+[2018.07.24-12.24.35:633][  0]LogInit: Using OS detected language (en-US).
+[2018.07.24-12.24.35:633][  0]LogInit: Using OS detected locale (en-NZ).
+[2018.07.24-12.24.35:637][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.07.24-12.24.36:131][  0]LogInit: Setting process to per monitor DPI aware
+[2018.07.24-12.24.36:453][  0]LogD3D11RHI: D3D11 adapters:
+[2018.07.24-12.24.36:473][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 820M                ' (Feature Level 11_0)
+[2018.07.24-12.24.36:473][  0]LogD3D11RHI:       1996/0/2047 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.07.24-12.24.36:478][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 5500' (Feature Level 11_0)
+[2018.07.24-12.24.36:478][  0]LogD3D11RHI:       128/0/6079 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.07.24-12.24.36:480][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.07.24-12.24.36:480][  0]LogD3D11RHI:       0/0/6079 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.07.24-12.24.36:480][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.07.24-12.24.36:487][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.07.24-12.24.36:487][  0]LogD3D11RHI:     GPU DeviceId: 0x1140 (for the marketing name, search the web for "GPU Device Id")
+[2018.07.24-12.24.36:487][  0]LogWindows: EnumDisplayDevices:
+[2018.07.24-12.24.36:488][  0]LogWindows:    0. 'Intel(R) HD Graphics 5500' (P:1 D:1)
+[2018.07.24-12.24.36:488][  0]LogWindows:    1. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2018.07.24-12.24.36:488][  0]LogWindows:    2. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2018.07.24-12.24.36:488][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.07.24-12.24.36:488][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 820M                
+[2018.07.24-12.24.36:488][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.07.24-12.24.36:488][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.07.24-12.24.36:488][  0]LogRHI: Texture pool is 1397 MB (70% of 1996 MB)
+[2018.07.24-12.24.36:624][  0]LogD3D11RHI: Display: Timestamp queries are currently disabled on this hardware due to instability. Realtime GPU stats will not be available. You can override this behaviour by setting r.NVIDIATimestampWorkaround to 0
+[2018.07.24-12.24.36:624][  0]LogD3D11RHI: NvAPI_D3D_GetCurrentSLIState failed: 0xfffffff7
+[2018.07.24-12.24.36:624][  0]LogD3D11RHI: Async texture creation enabled
+[2018.07.24-12.24.36:643][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.07.24-12.24.36:645][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Intermediate/Shaders/WorkingDirectory/11012/).
+[2018.07.24-12.24.36:645][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Administer/AppData/Local/Temp/UnrealShaderWorkingDir/20D57C5A42DBDBE3B24CBCB394D1480D/'.
+[2018.07.24-12.24.36:645][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.07.24-12.24.37:795][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.07.24-12.24.37:860][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.07.24-12.24.37:923][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.07.24-12.24.37:986][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.07.24-12.24.38:050][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.07.24-12.24.38:130][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.07.24-12.24.38:191][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.07.24-12.24.38:254][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.07.24-12.24.38:307][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.07.24-12.24.38:368][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.07.24-12.24.38:431][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.07.24-12.24.38:494][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.07.24-12.24.38:554][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.07.24-12.24.38:618][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.07.24-12.24.38:738][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.07.24-12.24.38:738][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.07.24-12.24.38:798][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.24-12.24.38:847][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.07.24-12.24.38:951][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.07.24-12.24.38:983][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.07.24-12.24.39:043][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.07.24-12.24.39:107][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.07.24-12.24.39:179][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.07.24-12.24.39:251][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.07.24-12.24.39:251][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.07.24-12.24.39:909][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.07.24-12.24.40:045][  0]LogDerivedDataCache: Loaded boot cache 0.14s 78MB C:/Users/Administer/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.07.24-12.24.40:045][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Administer/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.07.24-12.24.40:045][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.07.24-12.24.40:045][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.07.24-12.24.40:045][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.07.24-12.24.40:045][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.07.24-12.24.40:066][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.07.24-12.24.40:079][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Administer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.07.24-12.24.40:091][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.07.24-12.24.40:092][  0]LogSlate: Using Freetype 2.6.0
+[2018.07.24-12.24.40:115][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.24-12.24.40:115][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.24-12.24.41:546][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.24-12.24.41:984][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.07.24-12.24.42:035][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.07.24-12.24.42:035][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.07.24-12.24.42:035][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.07.24-12.24.42:035][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.07.24-12.24.42:035][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.07.24-12.24.42:070][  0]LogNetVersion: Prototype1 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3218924632)
+[2018.07.24-12.24.42:276][  0]LogAssetRegistry: FAssetRegistry took 0.0271 seconds to start up
+[2018.07.24-12.24.43:019][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.181862 seconds
+[2018.07.24-12.24.43:027][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.07.24-12.24.43:027][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.07.24-12.24.43:027][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.07.24-12.24.43:112][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.07.24-12.24.55:090][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.07.24-12.24.55:159][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.07.24-12.24.56:031][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.07.24-12.24.56:694][  0]SourceControl: Source control is disabled
+[2018.07.24-12.24.56:694][  0]SourceControl: Source control is disabled
+[2018.07.24-12.24.56:770][  0]SourceControl: Source control is disabled
+[2018.07.24-12.24.56:858][  0]SourceControl: Source control is disabled
+[2018.07.24-12.24.58:123][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.07.24-12.24.58:487][  0]LogOcInput: OculusInput pre-init called
+[2018.07.24-12.24.58:853][  0]LogEngine: Initializing Engine...
+[2018.07.24-12.24.58:855][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.07.24-12.24.59:127][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.24-12.24.59:127][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.24-12.24.59:298][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.07.24-12.24.59:305][  0]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.24-12.24.59:317][  0]LogInit: FAudioDevice initialized.
+[2018.07.24-12.24.59:461][  0]LogDerivedDataCache: Saved boot cache 0.14s 78MB C:/Users/Administer/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.07.24-12.24.59:481][  0]LogInit: Texture streaming: Enabled
+[2018.07.24-12.24.59:603][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.07.24-12.24.59:766][  0]LogInit: Transaction tracking system initialized
+[2018.07.24-12.25.00:145][  0]BlueprintLog: New page: Editor Load
+[2018.07.24-12.25.01:294][  0]LocalizationService: Localization service is disabled
+[2018.07.24-12.25.02:454][  0]LogConsoleResponse: Display: 
+[2018.07.24-12.25.02:681][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Administer/Documents/Unreal Projects/Prototype1/Content/' took 0.01s
+[2018.07.24-12.25.02:681][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.07.24-12.25.02:681][  0]LogCook: Display: Mobile HDR setting 1
+[2018.07.24-12.25.02:681][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.07.24-12.25.04:175][  0]SourceControl: Source control is disabled
+[2018.07.24-12.25.04:176][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.24-12.25.04:176][  0]LightingResults: New page: Lighting Build
+[2018.07.24-12.25.04:225][  0]MapCheck: New page: Map Check
+[2018.07.24-12.25.04:225][  0]LightingResults: New page: Lighting Build
+[2018.07.24-12.25.04:490][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.07.24-12.25.04:498][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.24-12.25.04:515][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.24-12.25.04:573][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 57.839ms to complete.
+[2018.07.24-12.25.04:573][  0]LogFileHelpers: Loading map 'Template_Default' took 0.398
+[2018.07.24-12.25.04:632][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.07.24-12.25.04:826][  0]LogCollectionManager: Loaded 0 collections in 0.001842 seconds
+[2018.07.24-12.25.04:923][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Administer/Documents/Unreal Projects/Prototype1/Saved/Collections/' took 0.01s
+[2018.07.24-12.25.04:923][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Administer/Documents/Unreal Projects/Prototype1/Content/Developers/Administer/Collections/' took 0.01s
+[2018.07.24-12.25.04:923][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Administer/Documents/Unreal Projects/Prototype1/Content/Collections/' took 0.01s
+[2018.07.24-12.25.04:923][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.07.24-12.25.04:932][  0]LogContentBrowser: Native class hierarchy populated in 0.0091 seconds. Added 2363 classes and 519 folders.
+[2018.07.24-12.25.05:009][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.07.24-12.25.05:981][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.07.24-12.25.06:052][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.07.24-12.25.06:069][  0]LogSlate: Took 0.000257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.24-12.25.06:072][  0]LogSlate: Took 0.000282 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.07.24-12.25.06:098][  0]LogSlate: Took 0.020294 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.07.24-12.25.06:288][  0]LogRenderer: Reallocating scene render targets to support 1204x608 Format 9 NumSamples 1 (Frame:1).
+[2018.07.24-12.25.06:638][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.07.24-12.25.06:638][  0]LogLoad: (Engine Initialization) Total time: 34.38 seconds
+[2018.07.24-12.25.06:638][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.07.24-12.25.06:638][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.07.24-12.25.06:638][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.07.24-12.25.06:676][  0]LogContentStreaming: Texture pool size now 400 MB
+[2018.07.24-12.25.06:712][  1]LogAssetRegistry: Asset discovery search completed in 24.4588 seconds
+[2018.07.24-12.25.06:715][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.07.24-12.25.06:715][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000062 seconds (updated 0 objects)
+[2018.07.24-12.25.07:201][  1]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.07.24-12.25.33:097][510]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.24-12.25.33:115][510]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.24-12.25.33:115][510]PIE: New page: PIE session: Untitled_1 (25/07/2018 12:25:33 pm)
+[2018.07.24-12.25.33:116][510]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.07.24-12.25.33:126][510]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010057s)
+[2018.07.24-12.25.33:128][510]LogAIModule: Creating AISystem for world Untitled_1
+[2018.07.24-12.25.33:128][510]LogPlayLevel: PIE: World Init took: (0.002358s)
+[2018.07.24-12.25.33:128][510]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.012892s)
+[2018.07.24-12.25.33:149][510]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.24-12.25.33:160][510]LogInit: FAudioDevice initialized.
+[2018.07.24-12.25.33:207][510]LogLoad: Game class is 'GameModeBase'
+[2018.07.24-12.25.33:209][510]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2018.07.25-00.25.33
+[2018.07.24-12.25.33:209][510]LogWorld: Bringing up level for play took: 0.000754
+[2018.07.24-12.25.33:262][510]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.07.24-12.25.33:263][510]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.105
+[2018.07.24-12.25.47:319][115]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.07.24-12.25.56:753][236]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.07.24-12.25.57:147][236]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.07.24-12.25.58:072][236]LogSlate: Took 0.000345 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.07.24-12.26.12:388][759]LogMetaData: Removing '/Game/Blueprints/P1.P1:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2018.07.24-12.26.12:389][759]LogMetaData: Removing '/Game/Blueprints/P1.SKEL_P1_C' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2018.07.24-12.26.12:389][759]LogMetaData: Removing '/Game/Blueprints/P1.P1_C' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2018.07.24-12.26.12:389][759]LogMetaData: Removing '/Game/Blueprints/P1.P1:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2018.07.24-12.26.12:389][759]LogMetaData: Removing '/Game/Blueprints/P1.P1:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2018.07.24-12.26.12:389][759]LogMetaData: Removing '/Game/Blueprints/P1.P1:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2018.07.24-12.26.12:415][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/P1" FILE="../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Content/Blueprints/P1.uasset" SILENT=true
+[2018.07.24-12.26.12:437][759]LogSavePackage: Save=19.55ms
+[2018.07.24-12.26.12:437][759]LogSavePackage: Moving '../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Saved/P12D225211486E77BC8ABD23B429098F21.tmp' to '../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Content/Blueprints/P1.uasset'
+[2018.07.24-12.26.12:441][759]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Content/Blueprints/P1.uasset
+[2018.07.24-12.26.26:455][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.24-12.26.26:521][226]LogSavePackage: Save=38.79ms
+[2018.07.24-12.26.26:521][226]LogSavePackage: Moving '../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Saved/NewMapC126215C4511D57A87BAA4BFF4B0DECC.tmp' to '../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Content/NewMap.umap'
+[2018.07.24-12.26.26:523][226]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Content/NewMap.umap
+[2018.07.24-12.26.26:548][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.07.24-12.26.26:588][226]LogSavePackage: Save=36.83ms
+[2018.07.24-12.26.26:588][226]LogSavePackage: Moving '../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Saved/NewMap_BuiltData3B07BD3A4FCFC54D0EBC32AC59EB9D4E.tmp' to '../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Content/NewMap_BuiltData.uasset'
+[2018.07.24-12.26.26:589][226]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Content/NewMap_BuiltData.uasset
+[2018.07.24-12.26.26:597][226]LogFileHelpers: Saving map 'NewMap' took 0.247
+[2018.07.24-12.26.30:908][362]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MyGamemode" FILE="../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Content/Blueprints/MyGamemode.uasset" SILENT=true
+[2018.07.24-12.26.30:927][362]LogSavePackage: Save=16.15ms
+[2018.07.24-12.26.30:927][362]LogSavePackage: Moving '../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Saved/MyGamemode7907D8784F15AF2EE51189B492254FDF.tmp' to '../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Content/Blueprints/MyGamemode.uasset'
+[2018.07.24-12.26.30:931][362]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Content/Blueprints/MyGamemode.uasset
+[2018.07.24-12.26.30:937][362]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/P2" FILE="../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Content/Blueprints/P2.uasset" SILENT=true
+[2018.07.24-12.26.30:996][362]LogSavePackage: Save=18.51ms
+[2018.07.24-12.26.30:996][362]LogSavePackage: Moving '../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Saved/P21C3CF9A9455CAD36EA66909537785092.tmp' to '../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Content/Blueprints/P2.uasset'
+[2018.07.24-12.26.31:000][362]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Content/Blueprints/P2.uasset
+[2018.07.24-12.26.41:107][771]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2018.07.24-12.26.45:295][906]BlueprintLog: New page: Compile MyGamemode
+[2018.07.24-12.26.46:678][926]LogSlate: Took 0.062884 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.07.24-12.26.48:046][967]LogSlate: Took 0.005923 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.07.24-12.26.53:005][111]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.07.24-12.27.00:464][326]BlueprintLog: New page: Compile MyGamemode
+[2018.07.24-12.27.07:914][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MyGamemode" FILE="../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Content/Blueprints/MyGamemode.uasset" SILENT=true
+[2018.07.24-12.27.07:937][544]LogSavePackage: Save=13.38ms
+[2018.07.24-12.27.07:938][544]LogSavePackage: Moving '../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Saved/MyGamemodeBAAE0EF34E094347722E8C9BA687A43B.tmp' to '../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Content/Blueprints/MyGamemode.uasset'
+[2018.07.24-12.27.07:941][544]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Content/Blueprints/MyGamemode.uasset
+[2018.07.24-12.27.11:626][700]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.24-12.27.11:652][700]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.24-12.27.11:652][700]PIE: New page: PIE session: NewMap (25/07/2018 12:27:11 pm)
+[2018.07.24-12.27.11:652][700]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.07.24-12.27.11:658][700]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005915s)
+[2018.07.24-12.27.11:659][700]LogAIModule: Creating AISystem for world NewMap
+[2018.07.24-12.27.11:659][700]LogPlayLevel: PIE: World Init took: (0.000930s)
+[2018.07.24-12.27.11:659][700]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.007152s)
+[2018.07.24-12.27.11:687][700]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.24-12.27.11:694][700]LogInit: FAudioDevice initialized.
+[2018.07.24-12.27.11:726][700]LogLoad: Game class is 'MyGamemode_C'
+[2018.07.24-12.27.11:727][700]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.07.25-00.27.11
+[2018.07.24-12.27.11:727][700]LogWorld: Bringing up level for play took: 0.000662
+[2018.07.24-12.27.11:728][700]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.24-12.27.11:728][700]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.24-12.27.11:728][700]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.24-12.27.11:729][700]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.24-12.27.11:729][700]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.571
+[2018.07.24-12.27.21:031][ 27]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.07.24-12.27.21:115][ 29]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Prototype1
+[2018.07.24-12.27.21:115][ 29]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.07.24-12.27.21:115][ 29]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.18
+[2018.07.24-12.27.21:115][ 29]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.07.24-12.27.21:119][ 29]LogTemp: BranchPath = DESKTOP-3LMKMPS/C/Program Files/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = DESKTOP-3LMKMPS/C/Program Files/Epic Games/UE_4.18/Engine/Binaries
+[2018.07.24-12.27.21:133][ 29]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Administer\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.07.24-12.28.21:708][892]LogRenderer: Reallocating scene render targets to support 1204x712 Format 9 NumSamples 1 (Frame:1).
+[2018.07.24-12.29.41:223][ 67]BlueprintLog: New page: Compile P1
+[2018.07.24-12.29.54:198][434]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.24-12.29.54:215][434]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.24-12.29.54:216][434]PIE: New page: PIE session: NewMap (25/07/2018 12:29:54 pm)
+[2018.07.24-12.29.54:216][434]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.07.24-12.29.54:224][434]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008156s)
+[2018.07.24-12.29.54:225][434]LogAIModule: Creating AISystem for world NewMap
+[2018.07.24-12.29.54:225][434]LogPlayLevel: PIE: World Init took: (0.001044s)
+[2018.07.24-12.29.54:225][434]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.009518s)
+[2018.07.24-12.29.54:262][434]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.24-12.29.54:271][434]LogInit: FAudioDevice initialized.
+[2018.07.24-12.29.54:305][434]LogLoad: Game class is 'MyGamemode_C'
+[2018.07.24-12.29.54:306][434]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.07.25-00.29.54
+[2018.07.24-12.29.54:307][434]LogWorld: Bringing up level for play took: 0.000769
+[2018.07.24-12.29.54:307][434]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.24-12.29.54:307][434]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.24-12.29.54:307][434]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.24-12.29.54:308][434]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.24-12.29.54:308][434]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.85
+[2018.07.24-12.30.18:512][330]BlueprintLog: New page: Compile P1
+[2018.07.24-12.30.22:734][385]LogActorFactory: Actor Factory created Sphere
+[2018.07.24-12.30.32:771][646]BlueprintLog: New page: Compile P1
+[2018.07.24-12.30.33:573][659]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.24-12.30.33:594][659]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.24-12.30.33:595][659]PIE: New page: PIE session: NewMap (25/07/2018 12:30:33 pm)
+[2018.07.24-12.30.33:595][659]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.07.24-12.30.33:601][659]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005849s)
+[2018.07.24-12.30.33:601][659]LogAIModule: Creating AISystem for world NewMap
+[2018.07.24-12.30.33:602][659]LogPlayLevel: PIE: World Init took: (0.000862s)
+[2018.07.24-12.30.33:602][659]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.007011s)
+[2018.07.24-12.30.33:632][659]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.24-12.30.33:640][659]LogInit: FAudioDevice initialized.
+[2018.07.24-12.30.33:675][659]LogLoad: Game class is 'MyGamemode_C'
+[2018.07.24-12.30.33:676][659]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.07.25-00.30.33
+[2018.07.24-12.30.33:676][659]LogWorld: Bringing up level for play took: 0.000695
+[2018.07.24-12.30.33:677][659]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.24-12.30.33:677][659]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.24-12.30.33:677][659]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.24-12.30.33:678][659]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.24-12.30.33:678][659]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0.52
+[2018.07.24-12.30.36:679][785]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.24-12.30.36:698][785]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.24-12.30.36:698][785]PIE: New page: PIE session: NewMap (25/07/2018 12:30:36 pm)
+[2018.07.24-12.30.36:698][785]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2018.07.24-12.30.36:705][785]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006681s)
+[2018.07.24-12.30.36:705][785]LogAIModule: Creating AISystem for world NewMap
+[2018.07.24-12.30.36:706][785]LogPlayLevel: PIE: World Init took: (0.000754s)
+[2018.07.24-12.30.36:706][785]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.007733s)
+[2018.07.24-12.30.36:732][785]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.24-12.30.36:739][785]LogInit: FAudioDevice initialized.
+[2018.07.24-12.30.36:774][785]LogLoad: Game class is 'MyGamemode_C'
+[2018.07.24-12.30.36:775][785]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.07.25-00.30.36
+[2018.07.24-12.30.36:775][785]LogWorld: Bringing up level for play took: 0.000636
+[2018.07.24-12.30.36:776][785]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.24-12.30.36:776][785]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.24-12.30.36:776][785]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.24-12.30.36:777][785]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.24-12.30.36:777][785]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap -0.381
+[2018.07.24-12.30.54:766][440]BlueprintLog: New page: Compile NewInterface
+[2018.07.24-12.31.11:536][899]LogSlate: Took 0.018045 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.07.24-12.31.24:348][258]BlueprintLog: New page: Compile NewInterface
+[2018.07.24-12.31.38:641][666]LogActorFactory: Actor Factory created Sphere
+[2018.07.24-12.31.40:538][716]BlueprintLog: New page: Compile P2
+[2018.07.24-12.32.18:039][709]LogMetaData: Removing '/Game/Blueprints/P1-to-P2-interface.SKEL_P1-to-P2-interface_C' ref from Metadata '/Game/Blueprints/NewInterface.PackageMetaData'
+[2018.07.24-12.32.18:039][709]LogMetaData: Removing '/Game/Blueprints/P1-to-P2-interface.P1-to-P2-interface_C' ref from Metadata '/Game/Blueprints/NewInterface.PackageMetaData'
+[2018.07.24-12.32.18:039][709]LogMetaData: Removing '/Game/Blueprints/P1-to-P2-interface.P1-to-P2-interface:P1 to P2.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/NewInterface.PackageMetaData'
+[2018.07.24-12.32.18:060][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/P1-to-P2-interface" FILE="../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Content/Blueprints/P1-to-P2-interface.uasset" SILENT=true
+[2018.07.24-12.32.18:074][709]LogSavePackage: Save=10.91ms
+[2018.07.24-12.32.18:074][709]LogSavePackage: Moving '../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Saved/P1-to-P2-interfaceF33B33E948D58D14DF81CE9F8569ADDF.tmp' to '../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Content/Blueprints/P1-to-P2-interface.uasset'
+[2018.07.24-12.32.18:078][709]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Content/Blueprints/P1-to-P2-interface.uasset
+[2018.07.24-12.32.41:615][312]BlueprintLog: New page: Compile P1
+[2018.07.24-12.33.30:278][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/P1" FILE="../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Content/Blueprints/P1.uasset" SILENT=true
+[2018.07.24-12.33.30:371][865]LogSavePackage: Save=41.27ms
+[2018.07.24-12.33.30:371][865]LogSavePackage: Moving '../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Saved/P1A069F7A4472591F103819081A3ABA2C3.tmp' to '../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Content/Blueprints/P1.uasset'
+[2018.07.24-12.33.30:374][865]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Content/Blueprints/P1.uasset
+[2018.07.24-12.33.30:395][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/P2" FILE="../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Content/Blueprints/P2.uasset" SILENT=true
+[2018.07.24-12.33.30:447][865]LogSavePackage: Save=27.80ms
+[2018.07.24-12.33.30:447][865]LogSavePackage: Moving '../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Saved/P2A6F26EF34FF4D84DA2D73FBD8789EBB9.tmp' to '../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Content/Blueprints/P2.uasset'
+[2018.07.24-12.33.30:451][865]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Content/Blueprints/P2.uasset
+[2018.07.24-12.33.37:903][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map" FILE="../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Content/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.24-12.33.37:980][ 46]LogSavePackage: Save=47.81ms
+[2018.07.24-12.33.37:980][ 46]LogSavePackage: Moving '../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Saved/MapBC18577E40E83130C2F78097167202AE.tmp' to '../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Content/Map.umap'
+[2018.07.24-12.33.37:984][ 46]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Content/Map.umap
+[2018.07.24-12.33.38:050][ 46]LogFileHelpers: Saving map 'Map' took 0.253
+[2018.07.24-12.34.08:815][843]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.07.24-12.34.08:911][844]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Prototype1
+[2018.07.24-12.34.08:911][844]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.07.24-12.34.08:911][844]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.18
+[2018.07.24-12.34.08:911][844]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.07.24-12.34.08:911][844]LogTemp: BranchPath = DESKTOP-3LMKMPS/C/Program Files/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = DESKTOP-3LMKMPS/C/Program Files/Epic Games/UE_4.18/Engine/Binaries
+[2018.07.24-12.34.08:911][844]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Administer\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.07.24-12.35.01:500][283]Cmd: TRANSACTION UNDO
+[2018.07.24-12.35.01:500][283]LogEditorTransaction: Undo Rename Axis Mapping
+[2018.07.24-12.35.01:636][283]LogSlate: Took 0.065105 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.07.24-12.35.10:449][525]Cmd: TRANSACTION UNDO
+[2018.07.24-12.35.10:449][525]LogEditorTransaction: Undo Rename Axis Mapping
+[2018.07.24-12.35.22:775][864]Cmd: TRANSACTION UNDO
+[2018.07.24-12.35.22:775][864]LogEditorTransaction: Undo Rename Axis Mapping
+[2018.07.24-12.36.42:564][652]BlueprintLog: New page: Compile P1
+[2018.07.24-12.36.42:587][652]LogBlueprint: Warning: [Compiler P1] Input Axis Event references unknown Axis 'Left/Right' for  InputAxis Left/Right
+[2018.07.24-12.36.42:588][652]LogBlueprint: Warning: [Compiler P1] Input Axis Event references unknown Axis 'Forward/Back' for  InputAxis Forward/Back
+[2018.07.24-12.36.42:912][652]LogBlueprint: Warning: [Compiler P1] [0730.65] Compile of P1 successful, but with 2 Warning(s) [in 348 ms] (/Game/Blueprints/P1.P1)
+[2018.07.24-12.37.38:448][ 79]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.07.24-12.39.20:745][221]BlueprintLog: New page: Compile P1
+[2018.07.24-12.40.44:845][457]BlueprintLog: New page: Compile P1-to-P2-interface
+[2018.07.24-12.41.22:189][416]BlueprintLog: New page: Compile P1
+[2018.07.24-12.42.25:089][386]BlueprintLog: New page: Compile P1
+[2018.07.24-12.42.27:800][450]BlueprintLog: New page: Compile P2
+[2018.07.24-12.42.42:735][824]BlueprintLog: New page: Compile P1
+[2018.07.24-12.43.37:080][ 39]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map' took 0.031
+[2018.07.24-12.43.37:082][ 39]LogExec: Warning: Missing filename
+[2018.07.24-12.43.37:084][ 39]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/P1] ([1] browsable assets)...
+[2018.07.24-12.43.37:099][ 39]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/P1.P1]
+[2018.07.24-12.43.37:099][ 39]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/P1]
+[2018.07.24-12.43.37:195][ 39]LogSavePackage: Save=45.69ms
+[2018.07.24-12.43.37:195][ 39]LogSavePackage: Moving '../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Saved/P1_Auto1F58A11374B2699086A31FD9A3C374AE4.tmp' to '../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Saved/Autosaves/Game/Blueprints/P1_Auto1.uasset'
+[2018.07.24-12.43.37:196][ 39]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Saved/Autosaves/Game/Blueprints/P1_Auto1.uasset
+[2018.07.24-12.43.37:197][ 39]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/P1-to-P2-interface] ([1] browsable assets)...
+[2018.07.24-12.43.37:197][ 39]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/P1-to-P2-interface]
+[2018.07.24-12.43.37:237][ 39]LogSavePackage: Save=8.89ms
+[2018.07.24-12.43.37:237][ 39]LogSavePackage: Moving '../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Saved/P1-to-P2-interface_Auto1C676BCE34763E4A700ABB6A22CC72D01.tmp' to '../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Saved/Autosaves/Game/Blueprints/P1-to-P2-interface_Auto1.uasset'
+[2018.07.24-12.43.37:238][ 39]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Saved/Autosaves/Game/Blueprints/P1-to-P2-interface_Auto1.uasset
+[2018.07.24-12.43.37:238][ 39]LogFileHelpers: Auto-saving content packages took 0.157
+[2018.07.24-12.45.25:647][543]LogClass: Warning: In asset 'None', there is an enum property of type 'EAutoReceiveInput' with an invalid value of ''
+[2018.07.24-12.45.25:647][543]LogClass: Warning: In asset 'None', there is an enum property of type 'EAutoReceiveInput' with an invalid value of ''
+[2018.07.24-12.45.27:557][596]BlueprintLog: New page: Compile P1
+[2018.07.24-12.46.02:158][987]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.07.24-12.46.08:341][152]BlueprintLog: New page: Compile P1
+[2018.07.24-12.47.24:824][456]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.07.24-12.47.38:211][630]BlueprintLog: New page: Compile P2
+[2018.07.24-12.47.39:619][661]BlueprintLog: New page: Compile P1
+[2018.07.24-12.47.42:261][726]BlueprintLog: New page: Compile P2
+[2018.07.24-12.47.43:267][744]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/P2" FILE="../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Content/Blueprints/P2.uasset" SILENT=true
+[2018.07.24-12.47.43:361][744]LogSavePackage: Save=26.41ms
+[2018.07.24-12.47.43:361][744]LogSavePackage: Moving '../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Saved/P24F971A974C711C3A63E015BE4A8CB32B.tmp' to '../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Content/Blueprints/P2.uasset'
+[2018.07.24-12.47.43:367][744]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Content/Blueprints/P2.uasset
+[2018.07.24-12.48.18:008][659]BlueprintLog: New page: Compile P1
+[2018.07.24-12.50.01:907][228]BlueprintLog: New page: Compile P2
+[2018.07.24-12.50.26:064][852]BlueprintLog: New page: Compile P2
+[2018.07.24-12.51.01:655][764]BlueprintLog: New page: Compile P2
+[2018.07.24-12.51.07:357][917]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.24-12.51.07:388][917]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.24-12.51.07:388][917]PIE: New page: PIE session: Map (25/07/2018 12:51:07 pm)
+[2018.07.24-12.51.07:389][917]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2018.07.24-12.51.07:397][917]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008119s)
+[2018.07.24-12.51.07:398][917]LogAIModule: Creating AISystem for world Map
+[2018.07.24-12.51.07:398][917]LogPlayLevel: PIE: World Init took: (0.001115s)
+[2018.07.24-12.51.07:398][917]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.009676s)
+[2018.07.24-12.51.07:430][917]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.24-12.51.07:438][917]LogInit: FAudioDevice initialized.
+[2018.07.24-12.51.07:472][917]LogLoad: Game class is 'MyGamemode_C'
+[2018.07.24-12.51.07:474][917]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 60) at 2018.07.25-00.51.07
+[2018.07.24-12.51.07:474][917]LogWorld: Bringing up level for play took: 0.001027
+[2018.07.24-12.51.07:475][917]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.24-12.51.07:475][917]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.24-12.51.07:475][917]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.24-12.51.07:477][917]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.24-12.51.07:477][917]PIE: Play in editor start time for /Game/UEDPIE_0_Map 0.319
+[2018.07.24-12.51.58:922][658]BlueprintLog: New page: Compile P1
+[2018.07.24-12.51.59:653][671]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.24-12.51.59:681][671]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.24-12.51.59:681][671]PIE: New page: PIE session: Map (25/07/2018 12:51:59 pm)
+[2018.07.24-12.51.59:681][671]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2018.07.24-12.51.59:688][671]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006907s)
+[2018.07.24-12.51.59:688][671]LogAIModule: Creating AISystem for world Map
+[2018.07.24-12.51.59:689][671]LogPlayLevel: PIE: World Init took: (0.000702s)
+[2018.07.24-12.51.59:689][671]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.007862s)
+[2018.07.24-12.51.59:721][671]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.24-12.51.59:730][671]LogInit: FAudioDevice initialized.
+[2018.07.24-12.51.59:768][671]LogLoad: Game class is 'MyGamemode_C'
+[2018.07.24-12.51.59:769][671]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 60) at 2018.07.25-00.51.59
+[2018.07.24-12.51.59:769][671]LogWorld: Bringing up level for play took: 0.000742
+[2018.07.24-12.51.59:770][671]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.24-12.51.59:770][671]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.24-12.51.59:770][671]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.24-12.51.59:771][671]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.24-12.51.59:771][671]PIE: Play in editor start time for /Game/UEDPIE_0_Map 0.613
+[2018.07.24-12.52.02:581][772]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.24-12.52.02:606][772]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.24-12.52.02:607][772]PIE: New page: PIE session: Map (25/07/2018 12:52:02 pm)
+[2018.07.24-12.52.02:608][772]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2018.07.24-12.52.02:616][772]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007418s)
+[2018.07.24-12.52.02:617][772]LogAIModule: Creating AISystem for world Map
+[2018.07.24-12.52.02:617][772]LogPlayLevel: PIE: World Init took: (0.000746s)
+[2018.07.24-12.52.02:617][772]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.009061s)
+[2018.07.24-12.52.02:642][772]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.24-12.52.02:649][772]LogInit: FAudioDevice initialized.
+[2018.07.24-12.52.02:685][772]LogLoad: Game class is 'MyGamemode_C'
+[2018.07.24-12.52.02:686][772]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 60) at 2018.07.25-00.52.02
+[2018.07.24-12.52.02:686][772]LogWorld: Bringing up level for play took: 0.000654
+[2018.07.24-12.52.02:686][772]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.24-12.52.02:686][772]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.24-12.52.02:686][772]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.24-12.52.02:687][772]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.24-12.52.02:688][772]PIE: Play in editor start time for /Game/UEDPIE_0_Map -0.471
+[2018.07.24-12.52.19:519][313]BlueprintLog: New page: Compile P1
+[2018.07.24-12.52.22:340][381]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.24-12.52.22:368][381]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.24-12.52.22:368][381]PIE: New page: PIE session: Map (25/07/2018 12:52:22 pm)
+[2018.07.24-12.52.22:368][381]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2018.07.24-12.52.22:380][381]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011978s)
+[2018.07.24-12.52.22:381][381]LogAIModule: Creating AISystem for world Map
+[2018.07.24-12.52.22:382][381]LogPlayLevel: PIE: World Init took: (0.001048s)
+[2018.07.24-12.52.22:382][381]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.013471s)
+[2018.07.24-12.52.22:413][381]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.24-12.52.22:420][381]LogInit: FAudioDevice initialized.
+[2018.07.24-12.52.22:454][381]LogLoad: Game class is 'MyGamemode_C'
+[2018.07.24-12.52.22:455][381]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 60) at 2018.07.25-00.52.22
+[2018.07.24-12.52.22:455][381]LogWorld: Bringing up level for play took: 0.000646
+[2018.07.24-12.52.22:457][381]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.24-12.52.22:457][381]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.24-12.52.22:457][381]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.24-12.52.22:458][381]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.24-12.52.22:458][381]PIE: Play in editor start time for /Game/UEDPIE_0_Map -0.701
+[2018.07.24-12.52.42:944][ 80]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.07.24-12.52.45:457][176]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.24-12.52.45:484][176]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.24-12.52.45:484][176]PIE: New page: PIE session: Map (25/07/2018 12:52:45 pm)
+[2018.07.24-12.52.45:484][176]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2018.07.24-12.52.45:491][176]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006458s)
+[2018.07.24-12.52.45:491][176]LogAIModule: Creating AISystem for world Map
+[2018.07.24-12.52.45:492][176]LogPlayLevel: PIE: World Init took: (0.000913s)
+[2018.07.24-12.52.45:492][176]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.007886s)
+[2018.07.24-12.52.45:521][176]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.24-12.52.45:528][176]LogInit: FAudioDevice initialized.
+[2018.07.24-12.52.45:564][176]LogLoad: Game class is 'MyGamemode_C'
+[2018.07.24-12.52.45:565][176]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 60) at 2018.07.25-00.52.45
+[2018.07.24-12.52.45:566][176]LogWorld: Bringing up level for play took: 0.000711
+[2018.07.24-12.52.45:566][176]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.24-12.52.45:566][176]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.24-12.52.45:566][176]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.24-12.52.45:568][176]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.24-12.52.45:568][176]PIE: Play in editor start time for /Game/UEDPIE_0_Map 0.41
+[2018.07.24-12.52.51:255][415]LogClass: Warning: In asset 'None', there is an enum property of type 'EAutoReceiveInput' with an invalid value of ''
+[2018.07.24-12.52.51:255][415]LogClass: Warning: In asset 'None', there is an enum property of type 'EAutoReceiveInput' with an invalid value of ''
+[2018.07.24-12.52.54:426][530]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.24-12.52.54:443][530]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.07.24-12.52.54:448][530]LogPlayLevel: [PlayLevel] Compiling P1 before play...
+[2018.07.24-12.52.54:671][530]LogPlayLevel: PlayLevel: Blueprint regeneration took 228 ms (1 blueprints)
+[2018.07.24-12.52.54:672][530]PIE: New page: PIE session: Map (25/07/2018 12:52:54 pm)
+[2018.07.24-12.52.54:672][530]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2018.07.24-12.52.54:677][530]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005417s)
+[2018.07.24-12.52.54:678][530]LogAIModule: Creating AISystem for world Map
+[2018.07.24-12.52.54:678][530]LogPlayLevel: PIE: World Init took: (0.000907s)
+[2018.07.24-12.52.54:678][530]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.006588s)
+[2018.07.24-12.52.54:704][530]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.24-12.52.54:711][530]LogInit: FAudioDevice initialized.
+[2018.07.24-12.52.54:746][530]LogLoad: Game class is 'MyGamemode_C'
+[2018.07.24-12.52.54:747][530]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 60) at 2018.07.25-00.52.54
+[2018.07.24-12.52.54:747][530]LogWorld: Bringing up level for play took: 0.000731
+[2018.07.24-12.52.54:748][530]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.24-12.52.54:748][530]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.24-12.52.54:748][530]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.24-12.52.54:749][530]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.24-12.52.54:749][530]PIE: Play in editor start time for /Game/UEDPIE_0_Map -0.409
+[2018.07.24-12.53.00:989][772]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.24-12.53.01:008][772]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.24-12.53.01:008][772]PIE: New page: PIE session: Map (25/07/2018 12:53:01 pm)
+[2018.07.24-12.53.01:008][772]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2018.07.24-12.53.01:016][772]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007820s)
+[2018.07.24-12.53.01:017][772]LogAIModule: Creating AISystem for world Map
+[2018.07.24-12.53.01:017][772]LogPlayLevel: PIE: World Init took: (0.000804s)
+[2018.07.24-12.53.01:017][772]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.008899s)
+[2018.07.24-12.53.01:076][772]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.24-12.53.01:083][772]LogInit: FAudioDevice initialized.
+[2018.07.24-12.53.01:122][772]LogLoad: Game class is 'MyGamemode_C'
+[2018.07.24-12.53.01:125][772]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 60) at 2018.07.25-00.53.01
+[2018.07.24-12.53.01:126][772]LogWorld: Bringing up level for play took: 0.002543
+[2018.07.24-12.53.01:128][772]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.24-12.53.01:128][772]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.24-12.53.01:128][772]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.24-12.53.01:131][772]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.24-12.53.01:131][772]PIE: Play in editor start time for /Game/UEDPIE_0_Map -0.027
+[2018.07.24-12.53.06:273][  9]LogEditorViewport: Clicking on Actor (LMB): P1_C (P1)
+[2018.07.24-12.53.07:259][ 37]Cmd: DELETE
+[2018.07.24-12.53.07:259][ 37]Cmd: ACTOR DELETE
+[2018.07.24-12.53.07:264][ 37]LogEditorActor: Deleted Actor: P1_C
+[2018.07.24-12.53.07:338][ 37]LogEditorActor: Deleted 1 Actors (0.078 secs)
+[2018.07.24-12.53.10:976][163]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.24-12.53.10:993][163]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.24-12.53.10:993][163]PIE: New page: PIE session: Map (25/07/2018 12:53:10 pm)
+[2018.07.24-12.53.10:993][163]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2018.07.24-12.53.10:999][163]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006254s)
+[2018.07.24-12.53.11:000][163]LogAIModule: Creating AISystem for world Map
+[2018.07.24-12.53.11:000][163]LogPlayLevel: PIE: World Init took: (0.000799s)
+[2018.07.24-12.53.11:001][163]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.007354s)
+[2018.07.24-12.53.11:031][163]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.24-12.53.11:038][163]LogInit: FAudioDevice initialized.
+[2018.07.24-12.53.11:075][163]LogLoad: Game class is 'MyGamemode_C'
+[2018.07.24-12.53.11:076][163]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 60) at 2018.07.25-00.53.11
+[2018.07.24-12.53.11:077][163]LogWorld: Bringing up level for play took: 0.001021
+[2018.07.24-12.53.11:077][163]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.24-12.53.11:077][163]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.24-12.53.11:077][163]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.24-12.53.11:078][163]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.24-12.53.11:078][163]PIE: Play in editor start time for /Game/UEDPIE_0_Map -0.08
+[2018.07.24-12.53.28:041][778]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.07.24-12.53.28:128][779]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Prototype1
+[2018.07.24-12.53.28:128][779]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.07.24-12.53.28:128][779]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.18
+[2018.07.24-12.53.28:128][779]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.07.24-12.53.28:128][779]LogTemp: BranchPath = DESKTOP-3LMKMPS/C/Program Files/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = DESKTOP-3LMKMPS/C/Program Files/Epic Games/UE_4.18/Engine/Binaries
+[2018.07.24-12.53.28:154][780]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Administer\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.07.24-12.53.43:333][194]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.24-12.53.43:352][194]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.24-12.53.43:352][194]PIE: New page: PIE session: Map (25/07/2018 12:53:43 pm)
+[2018.07.24-12.53.43:352][194]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2018.07.24-12.53.43:361][194]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008140s)
+[2018.07.24-12.53.43:361][194]LogAIModule: Creating AISystem for world Map
+[2018.07.24-12.53.43:362][194]LogPlayLevel: PIE: World Init took: (0.000951s)
+[2018.07.24-12.53.43:362][194]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.009484s)
+[2018.07.24-12.53.43:397][194]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.24-12.53.43:404][194]LogInit: FAudioDevice initialized.
+[2018.07.24-12.53.43:437][194]LogLoad: Game class is 'MyGamemode_C'
+[2018.07.24-12.53.43:439][194]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 60) at 2018.07.25-00.53.43
+[2018.07.24-12.53.43:439][194]LogWorld: Bringing up level for play took: 0.000956
+[2018.07.24-12.53.43:440][194]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.24-12.53.43:440][194]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.24-12.53.43:440][194]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.24-12.53.43:441][194]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.24-12.53.43:441][194]PIE: Play in editor start time for /Game/UEDPIE_0_Map 0.283
+[2018.07.24-12.54.08:638][136]LogClass: Warning: In asset 'None', there is an enum property of type 'EAutoReceiveInput' with an invalid value of ''
+[2018.07.24-12.54.08:638][136]LogClass: Warning: In asset 'None', there is an enum property of type 'EAutoReceiveInput' with an invalid value of ''
+[2018.07.24-12.54.08:638][136]LogClass: Warning: In asset 'None', there is an enum property of type 'EAutoReceiveInput' with an invalid value of ''
+[2018.07.24-12.54.10:366][178]BlueprintLog: New page: Compile P1
+[2018.07.24-12.54.12:654][225]LogEditorViewport: Clicking on Actor (LMB): P2_C (P2)
+[2018.07.24-12.54.15:510][286]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/P1" FILE="../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Content/Blueprints/P1.uasset" SILENT=true
+[2018.07.24-12.54.15:585][286]LogSavePackage: Save=64.25ms
+[2018.07.24-12.54.15:585][286]LogSavePackage: Moving '../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Saved/P11E8E81BD4AEC93C1F1A17EB5238740D8.tmp' to '../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Content/Blueprints/P1.uasset'
+[2018.07.24-12.54.15:592][286]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Content/Blueprints/P1.uasset
+[2018.07.24-12.54.15:598][286]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/P1-to-P2-interface" FILE="../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Content/Blueprints/P1-to-P2-interface.uasset" SILENT=true
+[2018.07.24-12.54.15:618][286]LogSavePackage: Save=10.72ms
+[2018.07.24-12.54.15:618][286]LogSavePackage: Moving '../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Saved/P1-to-P2-interface105D831B4794FF64E6FB488DDE866370.tmp' to '../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Content/Blueprints/P1-to-P2-interface.uasset'
+[2018.07.24-12.54.15:622][286]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Content/Blueprints/P1-to-P2-interface.uasset
+[2018.07.24-12.54.15:646][286]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/P2" FILE="../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Content/Blueprints/P2.uasset" SILENT=true
+[2018.07.24-12.54.15:692][286]LogSavePackage: Save=38.03ms
+[2018.07.24-12.54.15:693][286]LogSavePackage: Moving '../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Saved/P23892BC634F0F42112AE2ECA1B105D27A.tmp' to '../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Content/Blueprints/P2.uasset'
+[2018.07.24-12.54.15:696][286]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Content/Blueprints/P2.uasset
+[2018.07.24-12.54.15:825][286]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map" FILE="../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Content/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.24-12.54.15:952][286]LogSavePackage: Save=64.69ms
+[2018.07.24-12.54.15:952][286]LogSavePackage: Moving '../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Saved/Map338D0983405CD9563AB8F0B5F430DF6C.tmp' to '../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Content/Map.umap'
+[2018.07.24-12.54.15:955][286]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Content/Map.umap
+[2018.07.24-12.54.15:980][286]LogFileHelpers: Saving map 'Map' took 0.278
+[2018.07.24-12.54.16:311][300]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.24-12.54.16:330][300]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.24-12.54.16:330][300]PIE: New page: PIE session: Map (25/07/2018 12:54:16 pm)
+[2018.07.24-12.54.16:330][300]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2018.07.24-12.54.16:337][300]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006985s)
+[2018.07.24-12.54.16:338][300]LogAIModule: Creating AISystem for world Map
+[2018.07.24-12.54.16:338][300]LogPlayLevel: PIE: World Init took: (0.001220s)
+[2018.07.24-12.54.16:338][300]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.008476s)
+[2018.07.24-12.54.16:373][300]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.24-12.54.16:380][300]LogInit: FAudioDevice initialized.
+[2018.07.24-12.54.16:414][300]LogLoad: Game class is 'MyGamemode_C'
+[2018.07.24-12.54.16:415][300]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 60) at 2018.07.25-00.54.16
+[2018.07.24-12.54.16:415][300]LogWorld: Bringing up level for play took: 0.001263
+[2018.07.24-12.54.16:447][300]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.24-12.54.16:447][300]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.24-12.54.16:447][300]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.24-12.54.16:448][300]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.24-12.54.16:448][300]PIE: Play in editor start time for /Game/UEDPIE_0_Map -0.71
+[2018.07.24-12.54.32:959][198]LogEditorViewport: Clicking on Actor (LMB): P1_C (P1)
+[2018.07.24-12.54.48:409][649]LogEditorViewport: Clicking on Actor (LMB): P2_C (P2)
+[2018.07.24-12.54.55:350][884]LogEditorViewport: Clicking on Actor (LMB): P1_C (P1)
+[2018.07.24-12.54.58:352][973]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.24-12.54.58:373][973]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.24-12.54.58:373][973]PIE: New page: PIE session: Map (25/07/2018 12:54:58 pm)
+[2018.07.24-12.54.58:373][973]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2018.07.24-12.54.58:381][973]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007662s)
+[2018.07.24-12.54.58:382][973]LogAIModule: Creating AISystem for world Map
+[2018.07.24-12.54.58:382][973]LogPlayLevel: PIE: World Init took: (0.000845s)
+[2018.07.24-12.54.58:382][973]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.008832s)
+[2018.07.24-12.54.58:437][973]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.24-12.54.58:445][973]LogInit: FAudioDevice initialized.
+[2018.07.24-12.54.58:478][973]LogLoad: Game class is 'MyGamemode_C'
+[2018.07.24-12.54.58:479][973]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 60) at 2018.07.25-00.54.58
+[2018.07.24-12.54.58:519][973]LogWorld: Bringing up level for play took: 0.040714
+[2018.07.24-12.54.58:519][973]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.24-12.54.58:519][973]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.24-12.54.58:519][973]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.24-12.54.58:520][973]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.24-12.54.58:520][973]PIE: Play in editor start time for /Game/UEDPIE_0_Map -0.638
+[2018.07.24-12.55.11:246][637]LogEditorViewport: Clicking on Actor (LMB): P1_C (P1)
+[2018.07.24-12.55.56:055][ 18]LogEditorViewport: Clicking on Actor (LMB): P1_C (P1)
+[2018.07.24-12.56.02:628][220]LogEditorViewport: Clicking on Actor (LMB): P2_C (P2)
+[2018.07.24-12.56.06:171][352]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.24-12.56.06:190][352]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.24-12.56.06:191][352]PIE: New page: PIE session: Map (25/07/2018 12:56:06 pm)
+[2018.07.24-12.56.06:191][352]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2018.07.24-12.56.06:200][352]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008913s)
+[2018.07.24-12.56.06:200][352]LogAIModule: Creating AISystem for world Map
+[2018.07.24-12.56.06:201][352]LogPlayLevel: PIE: World Init took: (0.000911s)
+[2018.07.24-12.56.06:201][352]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.010106s)
+[2018.07.24-12.56.06:228][352]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.24-12.56.06:236][352]LogInit: FAudioDevice initialized.
+[2018.07.24-12.56.06:267][352]LogLoad: Game class is 'MyGamemode_C'
+[2018.07.24-12.56.06:268][352]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 60) at 2018.07.25-00.56.06
+[2018.07.24-12.56.06:269][352]LogWorld: Bringing up level for play took: 0.001233
+[2018.07.24-12.56.06:269][352]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.07.24-12.56.06:270][352]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.24-12.56.06:270][352]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.24-12.56.06:270][352]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.24-12.56.06:270][352]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.24-12.56.06:270][352]PIE: Play in editor start time for /Game/UEDPIE_0_Map -0.888
+[2018.07.24-12.56.10:632][580]LogEditorViewport: Clicking on Actor (LMB): P1_C (P1)
+[2018.07.24-12.56.12:446][636]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.24-12.56.12:463][636]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.24-12.56.12:463][636]PIE: New page: PIE session: Map (25/07/2018 12:56:12 pm)
+[2018.07.24-12.56.12:464][636]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2018.07.24-12.56.12:470][636]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006700s)
+[2018.07.24-12.56.12:471][636]LogAIModule: Creating AISystem for world Map
+[2018.07.24-12.56.12:471][636]LogPlayLevel: PIE: World Init took: (0.000900s)
+[2018.07.24-12.56.12:471][636]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.007909s)
+[2018.07.24-12.56.12:530][636]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.24-12.56.12:537][636]LogInit: FAudioDevice initialized.
+[2018.07.24-12.56.12:571][636]LogLoad: Game class is 'MyGamemode_C'
+[2018.07.24-12.56.12:572][636]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 60) at 2018.07.25-00.56.12
+[2018.07.24-12.56.12:572][636]LogWorld: Bringing up level for play took: 0.001292
+[2018.07.24-12.56.12:612][636]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.07.24-12.56.12:612][636]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.24-12.56.12:613][636]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.24-12.56.12:613][636]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.24-12.56.12:613][636]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.24-12.56.12:613][636]PIE: Play in editor start time for /Game/UEDPIE_0_Map -0.545
+[2018.07.24-12.56.16:746][842]LogEditorViewport: Clicking on Actor (LMB): P1_C (P1)
+[2018.07.24-12.56.36:865][354]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.07.24-12.56.36:865][354]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.07.24-12.56.36:865][354]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.07.24-12.56.36:874][354]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.07.24-12.56.36:874][354]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.07.24-12.56.36:874][354]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.07.24-12.56.38:824][401]BlueprintLog: New page: Compile P1
+[2018.07.24-12.56.41:164][452]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.24-12.56.41:195][452]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.24-12.56.41:195][452]PIE: New page: PIE session: Map (25/07/2018 12:56:41 pm)
+[2018.07.24-12.56.41:195][452]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2018.07.24-12.56.41:201][452]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006280s)
+[2018.07.24-12.56.41:202][452]LogAIModule: Creating AISystem for world Map
+[2018.07.24-12.56.41:202][452]LogPlayLevel: PIE: World Init took: (0.001026s)
+[2018.07.24-12.56.41:203][452]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.007716s)
+[2018.07.24-12.56.41:257][452]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.24-12.56.41:264][452]LogInit: FAudioDevice initialized.
+[2018.07.24-12.56.41:298][452]LogLoad: Game class is 'MyGamemode_C'
+[2018.07.24-12.56.41:299][452]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 60) at 2018.07.25-00.56.41
+[2018.07.24-12.56.41:300][452]LogWorld: Bringing up level for play took: 0.001166
+[2018.07.24-12.56.41:300][452]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.24-12.56.41:300][452]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.24-12.56.41:300][452]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.24-12.56.41:301][452]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.24-12.56.41:301][452]PIE: Play in editor start time for /Game/UEDPIE_0_Map 0.143
+[2018.07.24-12.56.51:803][810]LogEditorTransaction: Undo Change Collision Profile
+[2018.07.24-12.56.51:846][810]LogActorComponent: ~FComponentReregisterContext: (/Game/Map.Map:PersistentLevel.P1_321.Arrow) Component already registered.
+[2018.07.24-12.56.51:847][810]LogActorComponent: ~FComponentReregisterContext: (/Game/Map.Map:PersistentLevel.P1_321.CharMoveComp) Component already registered.
+[2018.07.24-12.56.51:849][810]LogActorComponent: ~FComponentReregisterContext: (/Game/Map.Map:PersistentLevel.P1_321.CharacterMesh0) Component already registered.
+[2018.07.24-12.56.51:849][810]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_17:PersistentLevel.P1_C_10.Arrow) Component already registered.
+[2018.07.24-12.56.51:850][810]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_17:PersistentLevel.P1_C_10.CharMoveComp) Component already registered.
+[2018.07.24-12.57.02:948][157]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.24-12.57.02:975][157]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.24-12.57.02:976][157]PIE: New page: PIE session: Map (25/07/2018 12:57:02 pm)
+[2018.07.24-12.57.02:976][157]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2018.07.24-12.57.02:982][157]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006031s)
+[2018.07.24-12.57.02:983][157]LogAIModule: Creating AISystem for world Map
+[2018.07.24-12.57.02:983][157]LogPlayLevel: PIE: World Init took: (0.000899s)
+[2018.07.24-12.57.02:983][157]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.007275s)
+[2018.07.24-12.57.03:015][157]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.24-12.57.03:022][157]LogInit: FAudioDevice initialized.
+[2018.07.24-12.57.03:052][157]LogLoad: Game class is 'MyGamemode_C'
+[2018.07.24-12.57.03:054][157]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 60) at 2018.07.25-00.57.03
+[2018.07.24-12.57.03:054][157]LogWorld: Bringing up level for play took: 0.001229
+[2018.07.24-12.57.03:055][157]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.07.24-12.57.03:055][157]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.24-12.57.03:055][157]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.24-12.57.03:055][157]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.24-12.57.03:055][157]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.24-12.57.03:055][157]PIE: Play in editor start time for /Game/UEDPIE_0_Map -0.103
+[2018.07.24-12.57.04:369][203]LogEditorViewport: Clicking on Actor (LMB): P1_C (P1)
+[2018.07.24-12.57.38:696][957]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2018.07.24-12.58.06:036][735]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.24-12.58.06:056][735]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.24-12.58.06:056][735]PIE: New page: PIE session: Map (25/07/2018 12:58:06 pm)
+[2018.07.24-12.58.06:056][735]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2018.07.24-12.58.06:065][735]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008358s)
+[2018.07.24-12.58.06:065][735]LogAIModule: Creating AISystem for world Map
+[2018.07.24-12.58.06:066][735]LogPlayLevel: PIE: World Init took: (0.000959s)
+[2018.07.24-12.58.06:066][735]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.009733s)
+[2018.07.24-12.58.06:101][735]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.24-12.58.06:108][735]LogInit: FAudioDevice initialized.
+[2018.07.24-12.58.06:143][735]LogLoad: Game class is 'MyGamemode_C'
+[2018.07.24-12.58.06:144][735]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 60) at 2018.07.25-00.58.06
+[2018.07.24-12.58.06:144][735]LogWorld: Bringing up level for play took: 0.001259
+[2018.07.24-12.58.06:145][735]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.07.24-12.58.06:145][735]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.24-12.58.06:145][735]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.24-12.58.06:145][735]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.24-12.58.06:145][735]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.24-12.58.06:145][735]PIE: Play in editor start time for /Game/UEDPIE_0_Map 0.987
+[2018.07.24-12.58.17:255][234]LogMetaData: Removing '/Game/Blueprints/Handcuffs.Handcuffs:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Handcuffs.PackageMetaData'
+[2018.07.24-12.58.17:255][234]LogMetaData: Removing '/Game/Blueprints/Handcuffs.SKEL_Handcuffs_C' ref from Metadata '/Game/Handcuffs.PackageMetaData'
+[2018.07.24-12.58.17:255][234]LogMetaData: Removing '/Game/Blueprints/Handcuffs.Handcuffs_C' ref from Metadata '/Game/Handcuffs.PackageMetaData'
+[2018.07.24-12.58.17:255][234]LogMetaData: Removing '/Game/Blueprints/Handcuffs.Handcuffs:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Handcuffs.PackageMetaData'
+[2018.07.24-12.58.17:255][234]LogMetaData: Removing '/Game/Blueprints/Handcuffs.Handcuffs:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Handcuffs.PackageMetaData'
+[2018.07.24-12.58.17:255][234]LogMetaData: Removing '/Game/Blueprints/Handcuffs.Handcuffs:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Handcuffs.PackageMetaData'
+[2018.07.24-12.58.17:255][234]LogMetaData: Removing '/Game/Blueprints/Handcuffs.SKEL_Handcuffs_C:ReceiveBeginPlay' ref from Metadata '/Game/Handcuffs.PackageMetaData'
+[2018.07.24-12.58.17:255][234]LogMetaData: Removing '/Game/Blueprints/Handcuffs.SKEL_Handcuffs_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Handcuffs.PackageMetaData'
+[2018.07.24-12.58.17:255][234]LogMetaData: Removing '/Game/Blueprints/Handcuffs.SKEL_Handcuffs_C:ReceiveTick' ref from Metadata '/Game/Handcuffs.PackageMetaData'
+[2018.07.24-12.58.17:255][234]LogMetaData: Removing '/Game/Blueprints/Handcuffs.SKEL_Handcuffs_C:DefaultSceneRoot1' ref from Metadata '/Game/Handcuffs.PackageMetaData'
+[2018.07.24-12.58.17:255][234]LogMetaData: Removing '/Game/Blueprints/Handcuffs.SKEL_Handcuffs_C:UserConstructionScript' ref from Metadata '/Game/Handcuffs.PackageMetaData'
+[2018.07.24-12.58.17:255][234]LogMetaData: Removing '/Game/Blueprints/Handcuffs.Handcuffs_C:DefaultSceneRoot1' ref from Metadata '/Game/Handcuffs.PackageMetaData'
+[2018.07.24-12.58.17:255][234]LogMetaData: Removing '/Game/Blueprints/Handcuffs.Handcuffs_C:UserConstructionScript' ref from Metadata '/Game/Handcuffs.PackageMetaData'
+[2018.07.24-12.58.17:277][234]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Handcuffs" FILE="../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Content/Blueprints/Handcuffs.uasset" SILENT=true
+[2018.07.24-12.58.17:300][234]LogSavePackage: Save=19.38ms
+[2018.07.24-12.58.17:300][234]LogSavePackage: Moving '../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Saved/Handcuffs01DA16034FAE6E68205BE2B7D759B6D4.tmp' to '../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Content/Blueprints/Handcuffs.uasset'
+[2018.07.24-12.58.17:304][234]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Administer/Documents/Unreal Projects/Prototype1/Content/Blueprints/Handcuffs.uasset
+[2018.07.24-12.58.20:122][328]LogEditorViewport: Clicking on Actor (LMB): Handcuffs_C (Handcuffs)
+[2018.07.24-12.58.25:809][527]LogEditorViewport: Clicking on Actor (LMB): P1_C (P1)
+[2018.07.24-12.58.31:471][702]LogEditorViewport: Clicking on Actor (LMB): P2_C (P2)
+[2018.07.24-12.58.32:255][727]LogEditorViewport: Clicking on Actor (LMB): P1_C (P1)
+[2018.07.24-12.58.34:749][802]LogEditorViewport: Clicking on Actor (LMB): Handcuffs_C (Handcuffs)
+[2018.07.24-12.58.46:376][161]BlueprintLog: New page: Compile P1
+[2018.07.24-12.58.52:873][302]BlueprintLog: New page: Compile Handcuffs
+[2018.07.24-12.58.54:855][341]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.24-12.58.54:895][341]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.24-12.58.54:895][341]PIE: New page: PIE session: Map (25/07/2018 12:58:54 pm)
+[2018.07.24-12.58.54:895][341]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2018.07.24-12.58.54:902][341]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007022s)
+[2018.07.24-12.58.54:903][341]LogAIModule: Creating AISystem for world Map
+[2018.07.24-12.58.54:904][341]LogPlayLevel: PIE: World Init took: (0.001073s)
+[2018.07.24-12.58.54:904][341]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.008405s)
+[2018.07.24-12.58.54:957][341]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.24-12.58.54:965][341]LogInit: FAudioDevice initialized.
+[2018.07.24-12.58.55:002][341]LogLoad: Game class is 'MyGamemode_C'
+[2018.07.24-12.58.55:006][341]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 60) at 2018.07.25-00.58.55
+[2018.07.24-12.58.55:007][341]LogWorld: Bringing up level for play took: 0.003261
+[2018.07.24-12.58.55:008][341]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.07.24-12.58.55:009][341]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.24-12.58.55:009][341]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.24-12.58.55:009][341]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.24-12.58.55:010][341]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.24-12.58.55:010][341]PIE: Play in editor start time for /Game/UEDPIE_0_Map -0.148
+[2018.07.24-12.58.57:650][447]LogEditorViewport: Clicking on Actor (LMB): Handcuffs_C (Handcuffs)
+[2018.07.24-12.59.08:631][689]BlueprintLog: New page: Compile Handcuffs
+[2018.07.24-12.59.09:589][697]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.24-12.59.09:614][697]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.24-12.59.09:614][697]PIE: New page: PIE session: Map (25/07/2018 12:59:09 pm)
+[2018.07.24-12.59.09:614][697]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2018.07.24-12.59.09:621][697]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006875s)
+[2018.07.24-12.59.09:622][697]LogAIModule: Creating AISystem for world Map
+[2018.07.24-12.59.09:622][697]LogPlayLevel: PIE: World Init took: (0.000698s)
+[2018.07.24-12.59.09:622][697]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.007875s)
+[2018.07.24-12.59.09:680][697]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.24-12.59.09:687][697]LogInit: FAudioDevice initialized.
+[2018.07.24-12.59.09:723][697]LogLoad: Game class is 'MyGamemode_C'
+[2018.07.24-12.59.09:725][697]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 60) at 2018.07.25-00.59.09
+[2018.07.24-12.59.09:725][697]LogWorld: Bringing up level for play took: 0.001515
+[2018.07.24-12.59.09:726][697]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.07.24-12.59.09:726][697]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.24-12.59.09:726][697]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.24-12.59.09:726][697]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.24-12.59.09:726][697]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.24-12.59.09:726][697]PIE: Play in editor start time for /Game/UEDPIE_0_Map 0.569
+[2018.07.24-12.59.13:147][787]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.24-12.59.13:147][787]PIE: New page: PIE session: Map (25/07/2018 12:59:13 pm)
+[2018.07.24-12.59.13:148][787]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2018.07.24-12.59.13:158][787]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010451s)
+[2018.07.24-12.59.13:159][787]LogAIModule: Creating AISystem for world Map
+[2018.07.24-12.59.13:159][787]LogPlayLevel: PIE: World Init took: (0.001087s)
+[2018.07.24-12.59.13:159][787]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.011963s)
+[2018.07.24-12.59.13:190][787]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.24-12.59.13:197][787]LogInit: FAudioDevice initialized.
+[2018.07.24-12.59.13:246][787]LogLoad: Game class is 'MyGamemode_C'
+[2018.07.24-12.59.13:247][787]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 60) at 2018.07.25-00.59.13
+[2018.07.24-12.59.13:248][787]LogWorld: Bringing up level for play took: 0.001615
+[2018.07.24-12.59.13:249][787]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.07.24-12.59.13:249][787]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.24-12.59.13:249][787]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.07.24-12.59.13:249][787]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.07.24-12.59.13:250][787]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.07.24-12.59.13:257][787]PIE: Play in editor start time for /Game/UEDPIE_0_Map 0.099
+[2018.07.24-12.59.29:052][187]LogEditorViewport: Clicking on Actor (LMB): Handcuffs_C (Handcuffs)
+[2018.07.24-12.59.33:444][283]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.07.24-12.59.33:522][283]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.07.24-12.59.35:464][336]LogEditorViewport: Clicking on Actor (LMB): P1_C (P1)
+[2018.07.24-12.59.36:286][363]LogEditorViewport: Clicking on Actor (LMB): Handcuffs_C (Handcuffs)
+[2018.07.24-12.59.38:446][427]LogEditorViewport: Clicking on Actor (LMB): Handcuffs_C (Handcuffs)
+[2018.07.24-13.00.03:285][993]LogEditorTransaction: Undo Clicking on Actors
+[2018.07.24-13.00.04:594][ 42]LogEditorTransaction: Undo Clicking on Actors
+[2018.07.24-13.00.05:069][ 51]LogEditorTransaction: Undo Clicking on Actors
+[2018.07.24-13.00.05:285][ 55]LogEditorTransaction: Undo Clicking on Actors
+[2018.07.24-13.00.05:480][ 59]LogEditorTransaction: Undo Modify Component(s)
+[2018.07.24-13.00.05:670][ 64]LogEditorTransaction: Undo Clicking on Actors
+[2018.07.24-13.00.05:859][ 69]LogEditorTransaction: Undo Add Component
+[2018.07.24-13.00.06:061][ 74]LogEditorTransaction: Undo Remove Components
+[2018.07.24-13.00.34:855][690]LogEditorViewport: Clicking on Actor (LMB): Handcuffs_C (Handcuffs)
+[2018.07.24-13.00.40:059][836]BlueprintLog: New page: Compile Handcuffs
+[2018.07.24-13.00.40:105][836]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: World_20, Actor: /Engine/Transient.World_20:PersistentLevel.REINST_Handcuffs_C_0
+[2018.07.24-13.00.40:106][836]LogWorld: --- Actors Currently in /Engine/Transient.World_20:PersistentLevel ---
+[2018.07.24-13.00.40:106][836]LogWorld:   /Engine/Transient.World_20:PersistentLevel.WorldSettings
+[2018.07.24-13.00.40:106][836]LogWorld:   /Engine/Transient.World_20:PersistentLevel.Brush_20
+[2018.07.24-13.00.40:106][836]LogWorld:   /Engine/Transient.World_20:PersistentLevel.DefaultPhysicsVolume_20
+[2018.07.24-13.00.40:106][836]LogWorld:   /Engine/Transient.World_20:PersistentLevel.ParticleEventManager_20
+[2018.07.24-13.00.40:106][836]LogWorld:   NONE
+[2018.07.24-13.00.40:106][836]LogWorld:   NONE
+[2018.07.24-13.00.40:106][836]LogWorld:   NONE
+[2018.07.24-13.00.40:106][836]LogWorld:   /Engine/Transient.World_20:PersistentLevel.Handcuffs_C_0
+[2018.07.24-13.00.41:130][836]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.024 s
+[2018.07.24-13.00.41:130][836]LogOutputDevice: Error: === Handled ensure: ===
+[2018.07.24-13.00.41:130][836]LogOutputDevice: Error: 
+[2018.07.24-13.00.41:130][836]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\Engine\Private\World.cpp] [Line: 1544]
+[2018.07.24-13.00.41:130][836]LogOutputDevice: Error: Could not remove actor /Engine/Transient.World_20:PersistentLevel.REINST_Handcuffs_C_0 from world (check level is /Engine/Transient.World_20:PersistentLevel)
+[2018.07.24-13.00.41:130][836]LogOutputDevice: Error: Stack: 
+[2018.07.24-13.00.41:130][836]LogOutputDevice: Error: [Callstack] 0x00000000995E2786 UE4Editor-Core.dll!UnknownFunction []
+[2018.07.24-13.00.41:130][836]LogOutputDevice: Error: [Callstack] 0x000000009938123A UE4Editor-Core.dll!UnknownFunction []
+[2018.07.24-13.00.41:130][836]LogOutputDevice: Error: [Callstack] 0x000000009939B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.07.24-13.00.41:130][836]LogOutputDevice: Error: [Callstack] 0x000000009AE7DF86 UE4Editor-Engine.dll!UnknownFunction []
+[2018.07.24-13.00.41:130][836]LogOutputDevice: Error: [Callstack] 0x000000009A518C15 UE4Editor-Engine.dll!UnknownFunction []
+[2018.07.24-13.00.41:130][836]LogOutputDevice: Error: [Callstack] 0x000000009A51ED63 UE4Editor-Engine.dll!UnknownFunction []
+[2018.07.24-13.00.41:130][836]LogOutputDevice: Error: [Callstack] 0x000000009830B7B5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.07.24-13.00.41:130][836]LogOutputDevice: Error: [Callstack] 0x000000009830D11D UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.07.24-13.00.41:130][836]LogOutputDevice: Error: [Callstack] 0x00000000982CE7DF UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.07.24-13.00.41:130][836]LogOutputDevice: Error: [Callstack] 0x000000009535187F UE4Editor-Kismet.dll!UnknownFunction []
+[2018.07.24-13.00.41:131][836]LogOutputDevice: Error: [Callstack] 0x00000000952F1704 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.07.24-13.00.41:131][836]LogOutputDevice: Error: [Callstack] 0x00000000982D633E UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.07.24-13.00.41:131][836]LogOutputDevice: Error: [Callstack] 0x00000000952F1133 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.07.24-13.00.41:131][836]LogOutputDevice: Error: [Callstack] 0x0000000095340FC1 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.07.24-13.00.41:131][836]LogOutputDevice: Error: [Callstack] 0x0000000095345D26 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.07.24-13.00.41:131][836]LogOutputDevice: Error: [Callstack] 0x000000009DD07BBF UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.24-13.00.41:131][836]LogOutputDevice: Error: [Callstack] 0x000000009DE0D3A2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.24-13.00.41:131][836]LogOutputDevice: Error: [Callstack] 0x000000009DD676D2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.24-13.00.41:131][836]LogOutputDevice: Error: [Callstack] 0x000000009DD68C29 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.24-13.00.41:131][836]LogOutputDevice: Error: [Callstack] 0x000000009DDE8C25 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.24-13.00.41:131][836]LogOutputDevice: Error: [Callstack] 0x000000009DEA2B27 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.24-13.00.41:131][836]LogOutputDevice: Error: [Callstack] 0x000000009DECEA04 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.24-13.00.41:131][836]LogOutputDevice: Error: [Callstack] 0x000000009DCE5EFC UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.24-13.00.41:131][836]LogOutputDevice: Error: [Callstack] 0x000000009DCB8095 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.24-13.00.41:131][836]LogOutputDevice: Error: [Callstack] 0x000000009DD528A7 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.24-13.00.41:131][836]LogOutputDevice: Error: [Callstack] 0x000000009DD3B092 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.24-13.00.41:131][836]LogOutputDevice: Error: [Callstack] 0x000000009DD2D902 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.24-13.00.41:131][836]LogOutputDevice: Error: [Callstack] 0x00000000A452E54B UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.24-13.00.41:131][836]LogOutputDevice: Error: [Callstack] 0x00000000A4521A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.24-13.00.41:131][836]LogOutputDevice: Error: [Callstack] 0x00000000A45303EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.24-13.00.41:131][836]LogOutputDevice: Error: [Callstack] 0x00000000A451D5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.24-13.00.41:131][836]LogOutputDevice: Error: [Callstack] 0x00000000CC85BC50 USER32.dll!UnknownFunction []
+[2018.07.24-13.00.41:131][836]LogOutputDevice: Error: [Callstack] 0x00000000CC85B5CF USER32.dll!UnknownFunction []
+[2018.07.24-13.00.41:131][836]LogOutputDevice: Error: [Callstack] 0x00000000A4531516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.24-13.00.41:131][836]LogOutputDevice: Error: [Callstack] 0x00000000428250C8 UE4Editor.exe!UnknownFunction []
+[2018.07.24-13.00.41:131][836]LogOutputDevice: Error: [Callstack] 0x0000000042835430 UE4Editor.exe!UnknownFunction []
+[2018.07.24-13.00.41:131][836]LogOutputDevice: Error: [Callstack] 0x00000000428354AA UE4Editor.exe!UnknownFunction []
+[2018.07.24-13.00.41:131][836]LogOutputDevice: Error: [Callstack] 0x0000000042842379 UE4Editor.exe!UnknownFunction []
+[2018.07.24-13.00.41:132][836]LogOutputDevice: Error: [Callstack] 0x0000000042843D57 UE4Editor.exe!UnknownFunction []
+[2018.07.24-13.00.41:132][836]LogOutputDevice: Error: [Callstack] 0x00000000CC6E2784 KERNEL32.DLL!UnknownFunction []
+[2018.07.24-13.00.41:132][836]LogOutputDevice: Error: [Callstack] 0x00000000CD2D0C31 ntdll.dll!UnknownFunction []
+[2018.07.24-13.00.41:132][836]LogOutputDevice: Error: 
+[2018.07.24-13.00.41:142][836]LogStats:                SubmitErrorReport -  0.000 s
